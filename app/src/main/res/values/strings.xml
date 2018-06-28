@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">writersBioGraphy</string>
+
+    <string-array name="writerNames">
+
+        <item>Amrita Pritam</item>
+        <item>Rabindranath Tagore</item>
+        <item>Padma Lakshmi</item>
+        <item>Sarojni naidu</item>
+        <item>R. K. Narayan</item>
+        <item>Kabir</item>
+        <item>J. K. Rowling</item>
+        <item>William Shakespeare</item>
+        <item>Benjamin Franklin</item>
+        <item>Charles Dickens</item>
+
+    </string-array>
+
+
+    <string-array name="Writer_0">
+
+        <item>Amrita Pritam</item>
+        <item>Indian</item>
+        <item>August 31, 1919</item>
+        <item>Gujranwala</item>
+        <item>October 31,2005</item>
+        <item>Amrita Pritam, the young poet who emotively invoked Waris Shah in what would become her best known poem, ‘Ajj aakhaan Waris Shah nu’, was one of the foremost women writers in 20th century India.</item>
+        <item>Her most famous novel is ‘Pinjar’ (Skeleton)</item>
+
+
+    </string-array>
+
+
+    <string-array name="Writer_1">
+
+        <item>Rabindranath Tagore</item>
+        <item>Indian</item>
+        <item>May 7, 1861</item>
+        <item>India</item>
+        <item>August 7,1941</item>
+        <item>Let us not pray to be sheltered from dangers but to be fearless when facing them.” said once, one of the most heroic poets of India, at a time when the country was going through a tumultuous period during the British rule.</item>
+        <item>‘Gitanjali’, a collection of poems, is considered his best poetic accomplishment.</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="Writer_2">
+
+        <item>Padma Lakshmi</item>
+        <item>Indian</item>
+        <item>September 1, 1970</item>
+        <item>Chennai</item>
+        <item> 1984</item>
+        <item>Padma Lakshmi is an Indian-born American model, actress, food expert, and award-winning author. She was the first Indian model to have a career in Paris, Milan and New York.</item>
+        <item>She launched her jewelry collection in 2009, which she named ‘Padma’. It consisted of 40 jewelry pieces..</item>
+
+
+    </string-array>
+
+    <string-array name="Writer_3">
+
+        <item>Sarojini Naidu</item>
+        <item>Indian</item>
+        <item>February 13, 1879</item>
+        <item>India</item>
+        <item>March 2,1949</item>
+        <item>Sarojini Naidu, also known as Sarojini Chattopadhyaya, was a famous Indian poet and a major freedom fighter who went on becoming the first Indian woman to be appointed the president of the Indian National Congress and the Governor of any state in India.</item>
+        <item>The Golden Threshold was published in 1905, after which two more collections The Bird of Time and The Broken Wing arrived in 1912 and 1917 respectively..</item>
+
+
+    </string-array>
+
+    <string-array name="Writer_4">
+
+        <item>R. K. Narayan</item>
+        <item>Indian</item>
+        <item>October 10, 1906</item>
+        <item>Chennai</item>
+        <item>May 13,2001</item>
+        <item>R. K. Narayan is considered as one of leading figures of early Indian literature in English. He is the one who made India accessible to the people in foreign countries—he gave unfamiliar people a window.</item>
+        <item>R.K. Narayan made India accessible to the outside world through his literature.</item>
+
+
+    </string-array>
+
+
+    <string-array name="Writer_5">
+
+        <item>Kabir</item>
+        <item>Indian</item>
+        <item> 1440</item>
+        <item>Varanasi</item>
+        <item> 1518</item>
+        <item>Kabir was a much revered 15th-century Indian mystic poet and saint whose writings inspired people hailing from all faiths including Hindus, Muslims and Sikhs. Several of his verses are included in the Sikh’s Holy Scripture Adi Granth.</item>
+        <item>Kabir was a saint and a poet who firmly believed in the unity of God and denounced the caste system.</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="Writer_6">
+
+        <item>J. K. Rowling</item>
+        <item>British</item>
+        <item> July 31, 1965</item>
+        <item> Yate</item>
+        <item> Not Yet</item>
+        <item>Little did she, in her wildest dreams, anticipate that a delayed train journey from Manchester to London would change her life for good! The woman behind the Harry Potter franchise</item>
+        <item>Today, the Harry Potter franchise is worth an estimated $15 billion. A global brand, it has created world records in literary circles and continues to be the most loved fiction tale.</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="Writer_7">
+
+        <item>William Shakespeare</item>
+        <item>British</item>
+        <item> April 23, 1564</item>
+        <item> Stratford</item>
+        <item> April 23, 1616</item>
+        <item>Literature without Shakespeare is like an aquarium without fishes. Though it would have all the adoration and kinds, a look at it would tell you that it is lifeless and dead. The world’s greatest playwright and writer of English language</item>
+        <item>‘Titus Andronicus’, ‘The Comedy of Errors’, ‘The Taming of the Shrew’ and ‘The Two Gentlemen of Verona’.</item>
+    </string-array>
+
+
+    <string-array name="Writer_8">
+
+        <item>Benjamin Franklin</item>
+        <item>American</item>
+        <item> January 17, 1706</item>
+        <item> Boston</item>
+        <item> April 17, 1790</item>
+        <item>Benjamin Franklin was a distinguished human being, who possessed uncanny mind and sharp wit, which he used tirelessly for the betterment of his country and society at large. </item>
+        <item>One of his earliest successful literary endeavors was Poor Richard’s Almanack (1732 to 1758), which was a pamphlet published and in it Franklin wrote under the pseudonym “Poor Richard”</item>
+
+    </string-array>
+
+
+
+    <string-array name="Writer_9">
+
+        <item>Charles Dickens</item>
+        <item>British</item>
+        <item> February 7, 1812</item>
+        <item> Landport</item>
+        <item> June 9, 1870</item>
+        <item>One of the most widely read English authors of all time Charles Dickens is famous for his novels that touch upon the sensitive issues of poverty, child labour, and slavery. During a time</item>
+        <item>The writer is also known for his story 'A Christmas Carol', which claims the highest number of movie adaptations.</item>
+    </string-array>
+
+
+
+
+</resources>
